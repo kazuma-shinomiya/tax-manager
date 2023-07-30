@@ -1,0 +1,19 @@
+.main {
+  padding: 8px 16px;
+}
+
+.title {
+  font-size: 18px;
+}
+
+.amount {
+  text-align: right;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.unit {
+  font-size: 16px;
+}
+
+
